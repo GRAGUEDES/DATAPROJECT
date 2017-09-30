@@ -1,3 +1,3 @@
 # datasciencecoursera
-DATA PROJECT
+## DATA PROJECT
 This is a repo to study and analyse data.
